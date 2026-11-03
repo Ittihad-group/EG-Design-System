@@ -1,0 +1,12 @@
+/* EG Design System — main.css (single entry)
+   Status: stub. Keep import order.
+*/
+@import url("./variables.css");
+@import url("./reset.css");
+@import url("./fonts.css");
+@import url("./typography.css");
+@import url("./layout.css");
+@import url("./components.css");
+@import url("./pages.css");
+@import url("./motion.css");
+@import url("./responsive.css");
